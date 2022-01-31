@@ -3,6 +3,7 @@
 ## Overview
 
 [UFO Sitings HTML file for Webpage](https://github.com/lexiewalla/UFOs/blob/main/index.html)
+
 [JavaScript File to create Filtered Data Table](https://github.com/lexiewalla/UFOs/blob/main/static/js/app.js)
  
 
