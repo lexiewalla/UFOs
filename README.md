@@ -6,6 +6,8 @@
 
 In this module we utilized our newly developed JavaScript skills to create an interactive website that shows UFO sightings around the world. This interactive website pulls data into a filterable table that has all the recorded UFO sightings. To create this website, we created four separate files. A JavaScript file that contains the data of sightings, another JavaScript file that holds functions to pull the data into the table and build it and a function to filter the table. The last two files we built were an html file to build the body and content of the website and a css file to style the webpage and pull in images. The html file builds the body of the website and reads in the JavaScript files and css files to display the page. The webpage has built in filters that are displayed on the left side of the screen and allow you to search by date, city, state, country, and shape. The function we build in JavaScript app first will pull the data into the file from the data.js file and the second function will use a loop to go through the objects and pull the criteria that was inputted into the search bar on the webpage.
 
+<img width="950" alt="UFOs" src="https://user-images.githubusercontent.com/45208773/151868079-5bbd83de-154c-4664-af1e-fec950805fb2.PNG">
+
  
 
 ## Summary
